@@ -132,6 +132,6 @@ For advanced users who want to fine-tune the tracking system:
 - Tracking accuracy can be affected by occlusion, lighting conditions, and camera movement
 ## 📧 Contact
 
-**Ahmed Mossad** - [ahmed.abdelfattah.mossad@gmail.com](mailto:ahmed.abdelfattah.mossad@gmail.com)
+**BM** - [bigman1208000@gmail.com](mailto:bigman1208000@gmail.com)
 
-Project Link: [https://github.com/ahmedm0ssad/person-tracker-sort](https://github.com/ahmedm0ssad/person-tracker-sort)
+Project Link: [https://github.com/bigman1208000/person-tracker-sort](https://github.com/bigman1208000/person-tracker-sort)
